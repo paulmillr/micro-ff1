@@ -1,4 +1,7 @@
-# micro-ff1
+# Deprecated. Use @noble/ciphers instead: github.com/paulmillr/noble-ciphers
+
+---
+### micro-ff1
 
 Format-preserving encryption algorithm (FPE-FF1) specified in NIST Special Publication 800-38G.
 
